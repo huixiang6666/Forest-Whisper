@@ -1,0 +1,9 @@
+.idea/
+.hvigor/
+build/
+oh_modules/
+node_modules/
+local.properties
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,122 @@
+{
+  "routerMap": [
+    {
+      "name": "Start",
+      "pageSourceFile": "src/main/ets/pages/Start_Page.ets",
+      "buildFunction": "StartBuilder",
+      "data": {
+        "description": "this is Start"
+      }
+    },
+    {
+
+          "name": "Layout",
+          "pageSourceFile": "src/main/ets/pages/Layout_page.ets",
+          "buildFunction": "LayoutBuilder",
+          "data": {
+            "description" : "this is Layout"
+          }
+
+
+    },
+    {
+
+      "name": "Play",
+      "pageSourceFile": "src/main/ets/pages/Play.ets",
+      "buildFunction": "PlayBuilder",
+      "data": {
+        "description" : "this is Play"
+      }
+
+
+    },
+    {
+      "name": "Songlist",
+      "pageSourceFile": "src/main/ets/pages/Songlist.ets",
+      "buildFunction": "SonglistBuilder",
+      "data": {
+        "description" : "this is Songlist"
+      }
+    },
+    {
+      "name": "Timer",
+      "pageSourceFile": "src/main/ets/pages/Timer.ets",
+      "buildFunction": "TimerBuilder",
+      "data": {
+        "description" : "this is Timer"
+      }
+    },
+    {
+      "name": "DailyRecommend0",
+      "pageSourceFile": "src/main/ets/pages/DailyRecommend0.ets",
+      "buildFunction": "DailyRecommend0Builder",
+      "data": {
+        "description" : "this is DailyRecommend0"
+      }
+    },
+    {
+      "name": "DailyRecommend1",
+      "pageSourceFile": "src/main/ets/pages/DailyRecommend1.ets",
+      "buildFunction": "DailyRecommend1Builder",
+      "data": {
+        "description" : "this is DailyRecommend1"
+      }
+    },
+    {
+      "name": "DailyRecommend2",
+      "pageSourceFile": "src/main/ets/pages/DailyRecommend2.ets",
+      "buildFunction": "DailyRecommend2Builder",
+      "data": {
+        "description" : "this is DailyRecommend2"
+      }
+    },
+    {
+      "name": "DailyRecommend3",
+      "pageSourceFile": "src/main/ets/pages/DailyRecommend3.ets",
+      "buildFunction": "DailyRecommend3Builder",
+      "data": {
+        "description" : "this is DailyRecommend3"
+      }
+    },
+    {
+      "name": "DailyRecommend4",
+      "pageSourceFile": "src/main/ets/pages/DailyRecommend4.ets",
+      "buildFunction": "DailyRecommend4Builder",
+      "data": {
+        "description" : "this is DailyRecommend4"
+      }
+    },
+    {
+      "name": "Login",
+      "pageSourceFile": "src/main/ets/pages/Login.ets",
+      "buildFunction": "LoginBuilder",
+      "data": {
+        "description" : "this is Login"
+      }
+    },
+    {
+      "name": "Register",
+      "pageSourceFile": "src/main/ets/pages/Register.ets",
+      "buildFunction": "RegisterBuilder",
+      "data": {
+        "description" : "this is Register"
+      }
+    },
+    {
+      "name": "Love_Songlist",
+      "pageSourceFile": "src/main/ets/pages/Love_Songlist.ets",
+      "buildFunction": "Love_SonglistBuilder",
+      "data": {
+        "description" : "this is Love_Songlist"
+      }
+    },
+    {
+      "name": "SleepTips",
+      "pageSourceFile": "src/main/ets/pages/SleepTips.ets",
+      "buildFunction": "SleepTipsBuilder",
+      "data": {
+        "description": "this is SleepTips"
+      }
+    }
+  ]
+}
