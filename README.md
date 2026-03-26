@@ -93,11 +93,11 @@
 
 ---
 
-###运行方式
-##环境要求
-#DevEco Studio
-#HarmonyOS SDK
-#本地模拟器或真机设备
+## 运行方式
+### 环境要求
+### DevEco Studio
+### HarmonyOS SDK
+### 本地模拟器或真机设备
 
 ---
 
